@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I enjoy making web applications. For _design_ and _wireframing_ I use __Figma__, and for *development* __Visual Stusio Code__. I have several years of experience working with **Html**, **Css**, **Javascript**, and *frameworks* built with these technologies.
